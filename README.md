@@ -30,3 +30,9 @@ cd TestSaucedemo
 ```bash
 pip install pytest selenium
 ```
+## Запуск
+
+```bash
+pytest test.py -v
+```
+
